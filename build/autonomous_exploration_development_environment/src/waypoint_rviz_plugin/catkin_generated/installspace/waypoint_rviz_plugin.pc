@@ -1,8 +1,0 @@
-prefix=/home/mino/scout-exploration/install
-
-Name: waypoint_rviz_plugin
-Description: Description of waypoint_rviz_plugin
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib -lwaypoint_rviz_plugin
-Requires: roscpp rviz

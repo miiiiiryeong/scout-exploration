@@ -1,8 +1,0 @@
-prefix=/home/mino/scout-exploration/install
-
-Name: velodyne_description
-Description: Description of velodyne_description
-Version: 1.0.11
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

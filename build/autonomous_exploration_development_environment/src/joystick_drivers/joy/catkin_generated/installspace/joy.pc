@@ -1,8 +1,0 @@
-prefix=/home/mino/scout-exploration/install
-
-Name: joy
-Description: Description of joy
-Version: 1.15.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: sensor_msgs
