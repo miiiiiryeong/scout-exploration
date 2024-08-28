@@ -44,7 +44,7 @@ source devel/setup.bash
     
 3. **AHRS ROS Driver**
     
-    [GitHub Repository](https://github.com/LORD-MicroStrain/microstrain_inertial)
+    [GitHub](https://github.com/LORD-MicroStrain/microstrain_inertial)
     
     3.1. Installation for ROS Noetic
     
