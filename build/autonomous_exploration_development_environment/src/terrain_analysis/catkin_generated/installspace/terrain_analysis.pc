@@ -1,0 +1,8 @@
+prefix=/home/mino/scout-exploration/install
+
+Name: terrain_analysis
+Description: Description of terrain_analysis
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs pcl_ros

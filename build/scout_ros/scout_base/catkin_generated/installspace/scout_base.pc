@@ -1,0 +1,8 @@
+prefix=/home/mino/scout-exploration/install
+
+Name: scout_base
+Description: Description of scout_base
+Version: 0.3.3
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lscout_messenger
+Requires: ugv_sdk scout_msgs

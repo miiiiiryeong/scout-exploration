@@ -1,0 +1,8 @@
+prefix=/home/mino/scout-exploration/devel
+
+Name: far_planner
+Description: Description of far_planner
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs pcl_ros

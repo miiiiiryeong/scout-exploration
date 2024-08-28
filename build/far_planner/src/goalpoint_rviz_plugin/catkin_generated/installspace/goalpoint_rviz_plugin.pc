@@ -1,0 +1,8 @@
+prefix=/home/mino/scout-exploration/install
+
+Name: goalpoint_rviz_plugin
+Description: Description of goalpoint_rviz_plugin
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -lgoalpoint_rviz_plugin
+Requires: roscpp rviz

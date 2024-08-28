@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/mino/scout-exploration/devel/lib/libscout_messenger.a  CMakeFiles/scout_messenger.dir/src/scout_messenger.cpp.o
+/usr/bin/ranlib /home/mino/scout-exploration/devel/lib/libscout_messenger.a
