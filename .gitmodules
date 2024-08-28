@@ -1,0 +1,18 @@
+[submodule "src/Livox-SDK"]
+	path = src/Livox-SDK
+	url = https://github.com/Livox-SDK/Livox-SDK.git
+[submodule "src/livox_ros_driver"]
+	path = src/livox_ros_driver
+	url = https://github.com/Livox-SDK/livox_ros_driver.git
+[submodule "src/FAST_LIO"]
+	path = src/FAST_LIO
+	url = https://github.com/hku-mars/FAST_LIO.git
+[submodule "src/velodyne"]
+	path = src/velodyne
+	url = https://github.com/ros-drivers/velodyne.git
+[submodule "src/ugv_sdk"]
+	path = src/ugv_sdk
+	url = https://github.com/agilexrobotics/ugv_sdk.git
+[submodule "src/scout_ros"]
+	path = src/scout_ros
+	url = https://github.com/agilexrobotics/scout_ros.git
