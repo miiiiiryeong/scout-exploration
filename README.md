@@ -94,11 +94,11 @@ roslaunch fast_lio mapping_velodyne.launch
 
 1.1. [Scout 2.0 Manual](https://docs.roas.co.kr/_downloads/c7772e0bb1e61af1b52371f2309a2907/Scout_2.0_User_Manual.pdf)
 
-The ROS driver is already included as a submodule.
+    The ROS driver is already included as a submodule.
 
 1.2. [Velodyne ROS Driver](https://github.com/ros-drivers/velodyne.git)
 
-The ROS driver is already included as a submodule.
+    The ROS driver is already included as a submodule.
 
 ### 2. Autonomous Exploration Development Environment
 
