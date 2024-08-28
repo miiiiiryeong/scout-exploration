@@ -107,9 +107,9 @@ The ROS driver is already included as a submodule.
 
 ### 2. Autonomous Exploration Development Environment
 
-- [**GitHub**](https://github.com/HongbiaoZ/autonomous_exploration_development_environment)
-- [**Google Homepage**](https://github.com/HongbiaoZ/autonomous_exploration_development_environment)
+- [GitHub](https://github.com/HongbiaoZ/autonomous_exploration_development_environment)
+- [Google Homepage](https://github.com/HongbiaoZ/autonomous_exploration_development_environment)
 
 ### 3. FAR Planner
 
-- [**GitHub**](https://github.com/HongbiaoZ/autonomous_exploration_development_environment)
+- [GitHub](https://github.com/HongbiaoZ/autonomous_exploration_development_environment)
