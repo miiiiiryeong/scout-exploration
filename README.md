@@ -55,9 +55,9 @@ source devel/setup.bash
     ```
 4. **Prerequisites for Autonomous exploration development environment**
    ```bash
-    sudo apt update && sudo apt install libusb-dev
+   sudo apt update && sudo apt install libusb-dev
 
-    ```
+   ```
 
 ## Run
 
