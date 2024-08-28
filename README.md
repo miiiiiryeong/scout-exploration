@@ -44,21 +44,15 @@ source devel/setup.bash
     
 3. **AHRS ROS Driver**
     
-    [GitHub](https://github.com/LORD-MicroStrain/microstrain_inertial)
+    - [GitHub](https://github.com/LORD-MicroStrain/microstrain_inertial)
     
-    3.1. Installation for ROS Noetic
+    - Installation for ROS Noetic
     
     ```bash
     
     sudo apt-get update && sudo apt-get install ros-noetic-microstrain-inertial-driver
     ```
-    
-    3.2. Launching ROS Node
-    
-    ```bash
-    roslaunch microstrain_inertial_driver microstrain.launch
-    ```
-    
+
 
 ## Run
 
