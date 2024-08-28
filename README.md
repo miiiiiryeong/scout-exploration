@@ -51,8 +51,14 @@ source devel/setup.bash
     ```bash
     
     sudo apt-get update && sudo apt-get install ros-noetic-microstrain-inertial-driver
-    ```
 
+    ```
+4. **Prerequisites for Autonomous exploration development environment**
+   ```bash
+    
+    sudo apt update && sudo apt install libusb-dev
+
+    ```
 
 ## Run
 
